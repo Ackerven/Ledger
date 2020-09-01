@@ -2,7 +2,7 @@
 
 ### 当前版本
 
-**[Version 0.3]()**
+**[Version 0.3](https://github.com/Ackerven/Ledger/blob/master/Version.md)**
 
 
 
