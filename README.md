@@ -22,8 +22,7 @@ At we all know，要想实现财务自由，就要学会科学记账，但科学
 
 ### 使用说明
 
-[点击跳转 Wiki](https://github.com/Ackerven/Ledger/wiki) 
-
+[点击跳转 Excel](https://github.com/Ackerven/Ledger/tree/excel/Excel)
 
 
 ## 发展规划
